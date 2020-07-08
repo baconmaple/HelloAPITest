@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\b\\Desktop\\HelloApi\\HelloApi.csproj": {}
+    "C:\\Users\\baconmaple\\WorkSpace\\HelloAPITest\\HelloApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\b\\Desktop\\HelloApi\\HelloApi.csproj": {
+    "C:\\Users\\baconmaple\\WorkSpace\\HelloAPITest\\HelloApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\b\\Desktop\\HelloApi\\HelloApi.csproj",
+        "projectUniqueName": "C:\\Users\\baconmaple\\WorkSpace\\HelloAPITest\\HelloApi.csproj",
         "projectName": "HelloApi",
-        "projectPath": "C:\\Users\\b\\Desktop\\HelloApi\\HelloApi.csproj",
-        "packagesPath": "C:\\Users\\b\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\b\\Desktop\\HelloApi\\obj\\",
+        "projectPath": "C:\\Users\\baconmaple\\WorkSpace\\HelloAPITest\\HelloApi.csproj",
+        "packagesPath": "C:\\Users\\baconmaple\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\baconmaple\\WorkSpace\\HelloAPITest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Microsoft\\Xamarin\\NuGet\\",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
         ],
         "configFilePaths": [
-          "C:\\Users\\b\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\baconmaple\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
         ],
@@ -60,6 +59,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[3.1.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[5.5.0, )"
             }
           },
           "imports": [
@@ -80,7 +83,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,0 +1,22 @@
+[
+    {
+        "Id" : "1",
+        "Name" : "initial data 1",
+        "Balance" : 210.53
+    },
+    {
+        "Id" : "2",
+        "Name" : "initial data 2",
+        "Balance" : 320
+    },
+    {
+        "Id" : "3",
+        "Name" : "initial data 3",
+        "Balance" : 1563.98
+    },
+    {
+        "Id" : "4",
+        "Name" : "initial data 4",
+        "Balance" : 658.30
+    }
+]
